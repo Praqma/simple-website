@@ -1,2 +1,2 @@
-# simple-website
-A very simple HTML website which is often needed to show demos during git or kubernetes labs
+# Simple Website
+During demos, etc, often a very simple website is needed, with very simple directory layout, to use with web servers, etc. Sometimes you want to show data copy between containers, pods, volumes and what not, and you always wonder what is the simplest set of files to use! Here is a very simple website, which contains just one index.html and one index.php file, (and a README.md). That's it.  
